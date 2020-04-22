@@ -1,0 +1,35 @@
+{
+  "manifest_version": 2,
+  "version": "1.0",
+  "name": "Into the red zone",
+  "theme": {
+    "images": {
+      "additional_backgrounds": [
+        "images/0.jpg",
+        "images/1.jpg"
+      ]
+    },
+    "properties": {
+      "additional_backgrounds_alignment": [
+        "right top",
+        "right top"
+      ],
+      "additional_backgrounds_tiling": [
+        "repeat",
+        "repeat"
+      ]
+    },
+    "colors": {
+      "toolbar": "rgba(0, 0, 0, 0)",
+      "toolbar_text": "rgb(0, 0, 0)",
+      "frame": "rgb(255, 255, 255)",
+      "tab_background_text": "rgb(0, 0, 0)",
+      "toolbar_field": "rgb(255, 255, 255)",
+      "toolbar_field_text": "rgb(0, 0, 0)",
+      "tab_line": "rgb(255, 255, 255)",
+      "popup": "rgb(255, 255, 255)",
+      "popup_text": "rgb(0, 0, 0)",
+      "tab_loading": "rgb(255, 255, 255)"
+    }
+  }
+}
